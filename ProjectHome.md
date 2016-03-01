@@ -1,0 +1,1 @@
+This project is based on Python Opencv. Here we give two images as input. We will be marking an object in the 1st image using the mouse. After this there will be a search for the same object in the next image and the object is automatically marked in this image too, if present.
